@@ -75,9 +75,9 @@ class Rajaongkir
 	 * @type    array
 	 */
 	protected $_api_urls = array(
-		'starter' => 'http://rajaongkir.com/api/starter/',
-		'basic'   => 'http://rajaongkir.com/api/basic/',
-		'pro'     => 'http://pro.rajaongkir.com/api/',
+		'starter' => 'https://api.rajaongkir.com/starter',
+		'basic'   => 'https://api.rajaongkir.com/basic',
+		'pro'     => 'https://pro.rajaongkir.com/api',
 	);
 
 	/**
